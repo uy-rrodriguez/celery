@@ -206,7 +206,7 @@ The integration packages aren't strictly necessary, but they can make
 development easier, and sometimes they add important hooks like closing
 database connections at ``fork``.
 
-.. _`Django`: https://djangoproject.com/
+.. _`Django`: https://www.djangoproject.com/
 .. _`Pylons`: http://pylonsproject.org/
 .. _`Flask`: https://flask.palletsprojects.com/
 .. _`web2py`: http://web2py.com/
